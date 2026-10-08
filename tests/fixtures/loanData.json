@@ -1,0 +1,14 @@
+[
+  {
+    "scenarioId": "TC001",
+    "amount": 2500000,
+    "rate": 10,
+    "tenure": 10
+  },
+  {
+    "scenarioId": "TC002",
+    "amount": 5000000,
+    "rate": 8.5,
+    "tenure": 20
+  }
+]
